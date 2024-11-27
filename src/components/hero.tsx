@@ -5,7 +5,7 @@ const Hero = () => {
     <section
       id="hero"
     >
-      Hero
+      MEDICARE
     </section>
   );
 };
