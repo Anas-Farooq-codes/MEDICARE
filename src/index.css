@@ -27,3 +27,47 @@ body {
     color: transparent;
     -webkit-text-fill-color: transparent;
   }
+
+  .card-gradient-one {
+    background: radial-gradient(
+      157.2% 114.74% at 54.01% 114.67%,
+      #ffd7e7 5.59%,
+      #e9ebfb 44.79%,
+      #fff 100%
+    );
+  }
+
+  .card-gradient-two {
+    background: radial-gradient(
+      186.08% 130.76% at 92.25% 123.75%,
+      #eef7fb 5.59%,
+      #fff4ee 44.79%,
+      #fff 100%
+    );
+  }
+  
+  .card-gradient-three {
+    background: radial-gradient(
+      186.08% 130.76% at 92.25% 123.75%,
+      #deebf0 5.59%,
+      #eef7fd 44.79%,
+      #ffffff 100%
+    );
+  }
+  
+  .card-gradient-four {
+    background: radial-gradient(
+      186.08% 130.76% at 92.25% 123.75%,
+      #bfeef2 5.59%,
+      #eefcff 44.79%,
+      #fff 100%
+    );
+  }
+
+  .why-gradient {
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.33) -41.3%,
+      #fff 66.67%
+    );
+  }

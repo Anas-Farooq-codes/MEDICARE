@@ -31,7 +31,7 @@ const Hero = () => {
   }}
   className="h-auto w-full text-center text-[60px] font-semibold leading-[60px] tracking-[-3px] opacity-[0.8704] md:h-[160px] md:w-[749px] md:text-[80px] md:leading-[80px] lg:text-left"
 >
-  Your partner in Health & Wellness
+  Your partner in Health <span className="text-[#9984f0]">&</span> Wellness
 </motion.h1>
 
     <motion.p
@@ -67,8 +67,8 @@ const Hero = () => {
         once: true,
       }}
       className="mt-[55.5px] flex w-full flex-col items-center justify-center gap-6 md:flex-row lg:justify-start">
-        <button className="group relative h-[56px] w-[180px] overflow-hidden rounded-full border-2 border-[#131316] text-base font-medium leading-[28px] text-[#445568] shadow-[0_1px_2px_0_rgba(14,24,41,0.05)] md:h-[60px] md:w-[202px] md:text-[18px]">
-          <div className="absolute -left-1 bottom-0 right-0 -z-10 !mx-auto h-[0px] w-[207px] rounded-full bg-black transition-all duration-300 group-hover:h-[59px]"></div>
+        <button className="group relative h-[56px] w-[180px] overflow-hidden rounded-full border-2 border-[#9984f0] text-base font-medium leading-[28px] text-[#445568] shadow-[0_1px_2px_0_rgba(14,24,41,0.05)] md:h-[60px] md:w-[202px] md:text-[18px]">
+          <div className="absolute -left-1 bottom-0 right-0 -z-10 !mx-auto h-[0px] w-[207px] rounded-full bg-[#9984f0] transition-all duration-300 group-hover:h-[59px]"></div>
           <span className="group-hover:text-white">How we work</span>
         </button>
 
