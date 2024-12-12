@@ -71,3 +71,22 @@ body {
       #fff 66.67%
     );
   }
+
+  /* Scrollbar styles for webkit-based browsers */
+::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #e0d9ff; /* Light shade of #9984f0 */
+  border-radius: 10px; /* Optional: rounded corners */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9984f0; /* Primary color */
+  border-radius: 10px; /* Optional: rounded corners */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #7e6ac6; /* Darker shade of #9984f0 for hover */
+}
