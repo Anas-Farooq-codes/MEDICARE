@@ -113,6 +113,7 @@ className="mt-8 flex h-[56px] w-[190px] relative group overflow-hidden items-cen
     once: true
   }}
   
+  
   src={cardOne} alt="cardfour"
   className="z-[12] lg:translate-y-0 xl:translate-y-[250px]"
   />
