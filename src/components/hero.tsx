@@ -33,7 +33,6 @@ const Hero = () => {
 >
 
 
-  
   Your partner in Health <span className="text-[#9984f0]">&</span> Wellness
 </motion.h1>
 
