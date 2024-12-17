@@ -29,8 +29,6 @@ const Hero = () => {
     amount: "some",
     once: true,
   }}
-  
-  
   className="h-auto w-full text-center text-[60px] font-semibold leading-[60px] tracking-[-3px] opacity-[0.8704] md:h-[160px] md:w-[749px] md:text-[80px] md:leading-[80px] lg:text-left"
 >
   Your partner in Health <span className="text-[#9984f0]">&</span> Wellness
