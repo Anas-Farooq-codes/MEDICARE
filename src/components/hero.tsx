@@ -25,6 +25,7 @@ const Hero = () => {
       ease: [0.44, 0, 0, 1],
     }, 
   }}
+  
   viewport={{
     amount: "some",
     once: true,
