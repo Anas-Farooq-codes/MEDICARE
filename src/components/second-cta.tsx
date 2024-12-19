@@ -106,7 +106,7 @@ Trusted Care, Simplified Access
   className="z-30 mt-12 flex gap-6 md:mt-[78px]"
 >
   <button className="group relative h-[56px] w-[180px] overflow-hidden rounded-full border-2 border-[#9984f0] text-base font-medium leading-[28px] text-[#445568] shadow-[0_1px_2px_0_rgba(14,24,41,0.05)] md:h-[60px] md:w-[220px] md:text-[18px]">
-    <div className="absolute -left-1 bottom-0 right-0 -z-10 lmx-auto h-[0px] w-[270px] rounded-full bg-[#9984f0] transition-all duration-300 group-hover:h-[59px]"></div>
+    <div className="absolute -left-1 bottom-0 right-0 -z-10 mx-auto h-[0px] w-[270px] rounded-full bg-[#9984f0] transition-all duration-300 group-hover:h-[59px]"></div>
     <span className="group-hover:text-white">Book Now</span>
   </button>
 
