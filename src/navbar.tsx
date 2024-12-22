@@ -1,5 +1,4 @@
 import logo from "./assets/mediprime-logo.png";
-import { motion } from "framer-motion";
 
 const Navbar = () => {
   const handleScroll = (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {

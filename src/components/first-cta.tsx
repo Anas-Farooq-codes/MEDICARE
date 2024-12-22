@@ -1,6 +1,5 @@
 import arrow from "../assets/arrow.svg";
 import cardOne from "../assets/card-one.svg";
-import cardTwo from "../assets/card-two.svg";
 import cardThree from "../assets/card-three.svg";
 import cardFour from "../assets/card-four.svg";
 import shadow from "../assets/shadow.svg";
