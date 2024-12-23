@@ -115,9 +115,6 @@ Trusted Care, Simplified Access
     <img src={arrow} alt="" />
   </button>
 </motion.div>
-
-
-
 {/* Women Portraits */}
 <motion.img
   initial={{ opacity: 0, y: 50 }}
