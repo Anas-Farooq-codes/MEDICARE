@@ -84,7 +84,6 @@ Trusted Care, Simplified Access
   <img src={checkmark} alt="" className="me-3 h-5 w-5 flex-shrink-0" />
   Access to all features
 </li>
-
 </motion.ul>
 {/* List Items */}
 
