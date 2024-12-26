@@ -86,8 +86,6 @@ Trusted Care, Simplified Access
 </li>
 </motion.ul>
 {/* List Items */}
-
-
 <motion.div
   initial={{ opacity: 0, y: 50 }}
   whileInView={{
